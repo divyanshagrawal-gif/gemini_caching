@@ -1,0 +1,6 @@
+langchain-google-genai
+python-dotenv
+langchain-redis
+redis
+langchain-core
+langchain-community
